@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"donationapp","l":"dashboardView"},{"p":"donationapp","l":"datadonasiView"},{"p":"donationapp","l":"datadonaturView"},{"p":"donationapp","l":"datapenerimaView"},{"p":"donationapp","l":"datapenyaluranView"},{"p":"db","l":"koneksi"},{"p":"donationapp","l":"loginView"}]
